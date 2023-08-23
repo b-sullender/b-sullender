@@ -26,7 +26,7 @@ Aspiring Web-Enthusiast | C/C++ Developer | Open Source Advocate
 
 - 🌟 I'm actively seeking professional open source developers to join [**SULLE WAREHOUSE**](https://github.com/sullewarehouse) and collaborate on innovative projects.
 - 🚀 Let's create cutting-edge software that combines the worlds of C/C++ and web technologies.
-- 📢 If you're interested in becoming a part of our organization, feel free to reach out via [sullewarehouse@gmail.com](mailto:sullewarehouse@gmail.com) or connect on [Facebook](https://facebook.com/sullewarehouse).
+- 📢 If you're interested in becoming a part of our organization, feel free to reach out via [sullewarehouse@gmail.com](mailto:sullewarehouse@gmail.com), [Facebook](https://facebook.com/sullewarehouse) or connect on [Twitter](https://twitter.com/sullewarehouse).
 
 ## Projects
 
@@ -40,7 +40,7 @@ Aspiring Web-Enthusiast | C/C++ Developer | Open Source Advocate
 
 ## Goals
 
-- 🌟 Sharpen my web development skills and create captivating user experiences.
+- 🌟 Build and grow my company, SULLE WAREHOUSE, by creating impactful and innovative software.
 - 🚧 Contribute to open source projects that align with my interests and expertise.
 - 📚 Keep learning and growing as a developer by exploring new technologies and best practices.
 
