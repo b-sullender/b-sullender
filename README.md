@@ -20,7 +20,7 @@ Aspiring Web-Enthusiast | C/C++ Developer | Open Source Advocate
   - CSS: Styling the digital canvas.
   - JavaScript: Adding interactivity and dynamism to web projects.
   - PHP: Building dynamic and feature-rich web applications.
-- 🛠️ Familiar with Windows native GUI development.
+- 🛠️ Familiar with Windows native GUI development, debugging and x86-64 assembly.
 
 ## Join **SULLE WAREHOUSE**
 
@@ -45,3 +45,7 @@ Aspiring Web-Enthusiast | C/C++ Developer | Open Source Advocate
 - 📚 Keep learning and growing as a developer by exploring new technologies and best practices.
 
 Feel free to reach out for collaboration, discussions, or just to say hello!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-sullender)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=b-sullender&theme=radical)](https://git.io/streak-stats)
