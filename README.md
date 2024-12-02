@@ -1,48 +1,41 @@
-# Hello, I'm Brian Sullender
-
-Aspiring Web-Enthusiast | C/C++ Developer | Open Source Advocate
-
-👋 Welcome to my GitHub profile! I'm a passionate C/C++ developer with over a decade of hobbyist programming experience. Recently, I've been delving into the exciting world of web technologies, exploring HTML, CSS, JavaScript, and PHP. I made the transition from Windows to Linux in 2023.
-
 ## About Me
 
-- 🔭 I'm currently working on improving my web development skills by creating interactive and user-friendly web applications.
-- 🌱 I'm learning how to bridge the gap between my C/C++ background and modern web technologies.
-- 💬 Ask me about C/C++ programming, algorithms, data structures, and my journey into web development.
-- 📫 Reach me via [sullewarehouse@gmail.com](mailto:sullewarehouse@gmail.com).
-- ⚡ Fun Fact: When I'm not coding, I love pizza and a movie!
+Full-Stack Developer | Web-Enthusiast | Server Administrator
+
+👋 Welcome to my GitHub profile! I'm a passionate developer with over a decade of hobbyist programming experience. Recently, I've been delving into the exciting world of web technologies, exploring HTML, CSS, JavaScript, and PHP. I made the transition from Windows to Linux in 2023.
+
+- I'm currently working on improving my web development skills by creating interactive and user-friendly web applications.
+- Ask me about C/C++ programming, algorithms, data structures, and my journey into web development.
+- Reach me via [b.sullender@gmail.com](mailto:b.sullender@gmail.com).
 
 ## Tech Stack
 
-- 💻 Proficient in C/C++ programming with over 10 years of experience.
-- 🌐 Exploring the depths of web technologies:
-  - HTML: Crafting the structure of the web.
-  - CSS: Styling the digital canvas.
-  - JavaScript: Adding interactivity and dynamism to web projects.
-  - PHP: Building dynamic and feature-rich web applications.
-- 🛠️ Familiar with Windows native GUI development, debugging and x86-64 assembly.
+**Programming Languages**:
+- **C/C++**: 10+ years of hobbyist experience.
+- **x86-64 Assembly**: Familiar with low-level programming and debugging.
+- **HTML, CSS, JavaScript**: Building modern, responsive web applications.
+- **PHP**: Backend development and server-side scripting.
 
-## Join **SULLE WAREHOUSE**
-
-- 🌟 I'm actively seeking professional open source developers to join [**SULLE WAREHOUSE**](https://github.com/sullewarehouse) and collaborate on innovative projects.
-- 🚀 Let's create cutting-edge software that combines the worlds of C/C++ and web technologies.
-- 📢 If you're interested in becoming a part of our organization, feel free to reach out via [sullewarehouse@gmail.com](mailto:sullewarehouse@gmail.com), [Facebook](https://facebook.com/sullewarehouse) or connect on [Twitter](https://twitter.com/sullewarehouse).
+**Specializations**:
+- Linux system administration and automation.
+- Native Windows GUI development.
+- Algorithm design and implementation.
 
 ## Projects
 
 - 🚀 Check out some of my projects that showcase my C/C++ prowess and evolving web development skills:
-  - [JSON Plus](https://github.com/sullewarehouse/json-plus): JSON parser and generator for C++ with UTF8 support.
-  - [Just Control](https://github.com/sullewarehouse/JustCtrl): DPI aware interface for native Windows GUI, custom controls, double-buffering and transparency.
-  - [CAPI](https://github.com/b-sullender/CAPI): Abandoned library for graphics, C/C++ strings and general back-end API. This large code-base is originally from my now abandoned hobbyist OS.
-  - [Debian 12 Setup Script](https://github.com/sullewarehouse/debian12setup): A manual and script for setting up a Debian 12 workstation.
-  
-- 🏢 All my latest projects are developed under the **SULLE WAREHOUSE** GitHub organization. Visit our [organization's GitHub page](https://github.com/sullewarehouse) to explore more.
+  - [Debian Setup Scripts](https://github.com/b-sullender/debian-setup): Scripts and a manual for setting up a Debian workstation.
+  - [MD View](https://github.com/b-sullender/mdview): Preview Markdown files in your web browser directly from GNOME Nautilus with a simple right-click.
+  - [Expression Parser](https://github.com/b-sullender/expression-parser): An expression parser in C that can easily be modified for more operations or turned into a calculator or programming language.
+  - [URL Parser](https://github.com/b-sullender/url-parser): A portable URL parser in C.
+  - [Blend Pixels](https://github.com/b-sullender/blend-pixels): Shows how to accurately blend 2 BGRA pixels, using a user-defined alpha input, resulting in a final BGRA pixel.
+  - [Linux Auth](https://github.com/b-sullender/linux-auth): A lightweight C program for Linux user authentication using the shadow file.
+  - [CAPI](https://github.com/b-sullender/CAPI): Abandoned library for graphics, C/C++ strings, and general back-end API. This large code-base is originally from my now abandoned hobbyist OS.
 
 ## Goals
 
-- 🌟 Build and grow my company, SULLE WAREHOUSE, by creating impactful and innovative software.
-- 🚧 Contribute to open source projects that align with my interests and expertise.
-- 📚 Keep learning and growing as a developer by exploring new technologies and best practices.
+- Contribute to open-source projects that align with my interests and expertise.
+- Keep learning and growing as a developer by exploring new technologies and best practices.
 
 Feel free to reach out for collaboration, discussions, or just to say hello!
 
