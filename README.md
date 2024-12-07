@@ -23,7 +23,7 @@ Full-Stack Developer | Web-Enthusiast | Server Administrator
 
 ## Projects
 
-- 🚀 Check out some of my projects that showcase my C/C++ prowess and evolving web development skills:
+- 🚀 Check out some of my projects that showcase my skills:
   - [Debian Setup Scripts](https://github.com/b-sullender/debian-setup): Scripts and a manual for setting up a Debian workstation.
   - [MD View](https://github.com/b-sullender/mdview): Preview Markdown files in your web browser directly from GNOME Nautilus with a simple right-click.
   - [Expression Parser](https://github.com/b-sullender/expression-parser): An expression parser in C that can easily be modified for more operations or turned into a calculator or programming language.
