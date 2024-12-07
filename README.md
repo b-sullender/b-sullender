@@ -2,10 +2,8 @@
 
 Full-Stack Developer | Web-Enthusiast | Server Administrator
 
-👋 Welcome to my GitHub profile! I'm a passionate developer with over a decade of hobbyist programming experience. Recently, I've been delving into the exciting world of web technologies, exploring HTML, CSS, JavaScript, and PHP. I made the transition from Windows to Linux in 2023.
+👋 Welcome to my GitHub profile! I'm a passionate developer with over a decade of hobbyist programming experience. Recently, I've been working on web applications, using HTML, CSS, JavaScript, and PHP. Proud Linux user since 2023.
 
-- I'm currently working on improving my web development skills by creating interactive and user-friendly web applications.
-- Ask me about C/C++ programming, algorithms, data structures, and my journey into web development.
 - Reach me via [b.sullender@gmail.com](mailto:b.sullender@gmail.com).
 
 ## Tech Stack
