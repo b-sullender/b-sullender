@@ -28,6 +28,7 @@ Full-Stack Developer | Web-Enthusiast | Server Administrator
   - [Expression Parser](https://github.com/b-sullender/expression-parser): An expression parser in C that can easily be modified for more operations or turned into a calculator or programming language.
   - [URL Parser](https://github.com/b-sullender/url-parser): A portable URL parser in C.
   - [Blend Pixels](https://github.com/b-sullender/blend-pixels): Shows how to accurately blend 2 BGRA pixels, using a user-defined alpha input, resulting in a final BGRA pixel.
+  - [Email Admin](https://github.com/b-sullender/email-admin): A collection of scripts to configure and manage a file-based email server on Debian.
   - [Linux Auth](https://github.com/b-sullender/linux-auth): A lightweight C program for Linux user authentication using the shadow file.
   - [CAPI](https://github.com/b-sullender/CAPI): Abandoned library for graphics, C/C++ strings, and general back-end API. This large code-base is originally from my now abandoned hobbyist OS.
   - [Auto Play](https://github.com/b-sullender/autoplay): A system service that detects CD/DVD/Blu-ray discs and runs a task window for Linux.
