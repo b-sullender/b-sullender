@@ -30,6 +30,8 @@ Full-Stack Developer | Web-Enthusiast | Server Administrator
   - [Blend Pixels](https://github.com/b-sullender/blend-pixels): Shows how to accurately blend 2 BGRA pixels, using a user-defined alpha input, resulting in a final BGRA pixel.
   - [Linux Auth](https://github.com/b-sullender/linux-auth): A lightweight C program for Linux user authentication using the shadow file.
   - [CAPI](https://github.com/b-sullender/CAPI): Abandoned library for graphics, C/C++ strings, and general back-end API. This large code-base is originally from my now abandoned hobbyist OS.
+  - [Auto Play](https://github.com/b-sullender/autoplay): A system service that detects CD/DVD/Blu-ray discs and runs a task window for Linux.
+  - [Win HTTP Web Socket Client](https://github.com/b-sullender/WinHttpWebSocketClient): Windows C++ WebSocket Client implemented using the WinHTTP functions.
 
 ## Goals
 
